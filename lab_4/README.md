@@ -8,7 +8,7 @@
 
 Таймлапс (після)
 
-![](lab_4/result_video.gif)
+![](https://github.com/zerorchik/CV_6_labs/assets/103893849/8783c48b-2add-47f6-a472-37beb5f40a40)
 
 ## Аналіз отриманих результатів
 
