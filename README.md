@@ -24,3 +24,9 @@
 **ДОСЛІДЖЕННЯ ТЕХНОЛОГІЙ ПОКРАЩЕННЯ ЯКОСТІ ЦИФРОВИХ ЗОБРАЖЕНЬ ДЛЯ ЗАДАЧ COMPUTER VISION**
 
 ![image](https://github.com/zerorchik/CV_6_labs/assets/103893849/480bc0f2-0f27-4683-98a1-b4555e0b6949)
+
+# Лабораторна 5:
+
+**ДОСЛІДЖЕННЯ ТЕХНОЛОГІЙ СЕГМЕНТАЦІЇ ТА КЛАСТЕРИЗАЦІЇ ЦИФРОВИХ ЗОБРАЖЕНЬ ДЛЯ ЗАДАЧ COMPUTER VISION**
+
+![image](https://github.com/zerorchik/CV_6_labs/assets/103893849/4d4c5cb6-32c3-453a-a7ca-0c6d55a7fab3)
