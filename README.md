@@ -18,3 +18,9 @@
 **ДОСЛІДЖЕННЯ АЛГОРИТМІВ ФОРМУВАННЯ ТА ОБРОБКИ РАСТРОВИХ ЦИФРОВИХ ЗОБРАЖЕНЬ**
 
 ![image](https://github.com/zerorchik/CV_6_labs/assets/103893849/3abdbe37-3016-49d2-b55c-bff74fb62bf0)
+
+# Лабораторна 4:
+
+**ДОСЛІДЖЕННЯ ТЕХНОЛОГІЙ ПОКРАЩЕННЯ ЯКОСТІ ЦИФРОВИХ ЗОБРАЖЕНЬ ДЛЯ ЗАДАЧ COMPUTER VISION**
+
+![image](https://github.com/zerorchik/CV_6_labs/assets/103893849/480bc0f2-0f27-4683-98a1-b4555e0b6949)
