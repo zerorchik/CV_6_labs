@@ -49,3 +49,10 @@
 
 ![image](https://github.com/zerorchik/CV_6_labs/assets/103893849/d5b7c21f-9f4c-44f7-8bbc-8b317ab12b50)
 
+# Лабораторна 9:
+
+**СИНТЕЗ РЕАЛІСТИЧНИХ ОБ’ЄКТІВ ДОПОВНЕНОЇ РЕАЛЬНОСТІ**
+
+![image](https://github.com/zerorchik/CV_6_labs/assets/103893849/a7c89785-6950-42ce-adeb-dae518b5779d)
+
+
