@@ -55,4 +55,6 @@
 
 ![image](https://github.com/zerorchik/CV_6_labs/assets/103893849/a7c89785-6950-42ce-adeb-dae518b5779d)
 
+# Модульна контрольна робота:
 
+![image](https://github.com/zerorchik/CV_6_labs/assets/103893849/43b7163a-a1de-4e55-b298-31c58c33dedc)
