@@ -174,7 +174,7 @@ if __name__ == '__main__':
     x = data_x()
     y = data_y()
     print('Датасет:')
-    print(f'x =\n{x[0]}\n{x[1]}\n{x[2]}\n')
+    print(f'x =\n{x[0]}\n{x[1]}\n{x[2]}\n{x[3]}\n')
     print(f'y =\n{y}')
 
     print_architecture()
